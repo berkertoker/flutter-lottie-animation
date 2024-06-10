@@ -3,7 +3,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:lottie_animation/home_page.dart';
 
 import 'package:flutter/material.dart';
-import 'package:lottie_animation/main_page.dart';
 
 void main() {
   runApp(MyAppp());
